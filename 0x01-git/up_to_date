@@ -1,0 +1,9 @@
+git clone 
+ git add .
+ git commit -m <Message> 
+ git push origin master 
+ git pull origin 
+ git log 
+ git checkout -b <branch name> 
+ git config --global user.email <my email> 
+ git config --global user.name <my name> 
